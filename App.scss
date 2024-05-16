@@ -1,0 +1,15 @@
+.invoices-page {
+  width: 500px;
+  height: 500px;
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  #invoices-left {
+    width: 500px;
+    height: 100%;
+  }
+  #invoices-left {
+    flex: 0.25;
+    background-color: rgb(92, 190, 223);
+  }
+}
